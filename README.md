@@ -6,7 +6,7 @@
 
 # notalive URL search
 
-A website with the idea of finding data using URL / Email / User / IP OR ARG or PERU document
+A website with the idea of finding data using URL / Email / User / IP / ARG or PERU document
 
 
 
